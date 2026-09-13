@@ -2,6 +2,7 @@
 
 **Actividad 4 - Práctica de limpieza de datos**
 Materia: Análisis y Visualización de la Información (26B)
+
 Isaac Arturo Camarillo Vega - código 220083026
 
 ## Objetivo
