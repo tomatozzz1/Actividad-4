@@ -11,7 +11,7 @@ Aplicar técnicas de limpieza y transformación de datos con Python sobre una ba
 
 ## Dataset
 
-[Cafe Sales - Dirty Data for Cleaning Training](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training) (Kaggle, autor: Ahmed Mohamed). 10,000 transacciones de una cafetería con 8 columnas: `Transaction ID`, `Item`, `Quantity`, `Price Per Unit`, `Total Spent`, `Payment Method`, `Location` y `Transaction Date`. El dataset se distribuye deliberadamente "sucio", con valores faltantes, marcadores de error y tipos de dato inconsistentes.
+[Cafe Sales - Dirty Data for Cleaning Training](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training) (Kaggle, autor: Ahmed Mohamed). 10,000 transacciones de una cafetería con 8 columnas: `Transaction ID`, `Item`, `Quantity`, `Price Per Unit`, `Total Spent`, `Payment Method`, `Location` y `Transaction Date`. El dataset se distribuye con valores faltantes, marcadores de error y tipos de dato inconsistentes.
 
 ## Contenido del repositorio
 
